@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm D'Angelo 👋
 
 <!--
 **destellis/destellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🇺🇸 I'm a software developer and student from Florida
+- 👨‍🎓 Currently studying Computing Technology and Software Development at university
+- 🚀 Passionate about software architecture, mobile development, machine learning, AI, quantum computing, data science, and exploring new technologies
+- 👨‍💻 Right now I'm working on building cross-platform apps, including a wishlist app called Bucket
+- 🌍 My dream is to contribute to projects that benefit humanity and the planet, with a special interest in space exploration and sustainability
